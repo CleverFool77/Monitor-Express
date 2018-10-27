@@ -1,6 +1,7 @@
 # Monitor Express
 
-Shipment tracking Zulip Bot for Zulip realm.
+A Shipment tracking Zulip Bot for Zulip realm.
+It tracks with the help of <shipment order number>.
 
 ![](./bot.png)
 
